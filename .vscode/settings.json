@@ -1,6 +1,8 @@
 {
   "powerquery.sdk.defaultQueryFile": "${workspaceFolder}\\${workspaceFolderBasename}.query.pq",
   "powerquery.sdk.defaultExtension": "${workspaceFolder}\\bin\\AnyCPU\\Debug\\${workspaceFolderBasename}.mez",
+  "powerquery.sdk.test.settingsFiles": "${workspaceFolder}\\PQ.testsettings.json",
+  "powerquery.sdk.test.extensionPaths": "${workspaceFolder}\\bin\\AnyCPU\\Debug\\${workspaceFolderBasename}.mez",
   "powerquery.general.mode": "SDK",
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",

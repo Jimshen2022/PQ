@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.microsoft.com/powerquery/pqtest/usersettings.json",
+  "ExtensionPaths": [
+    ".\\bin\\AnyCPU\\Debug\\PQ.mez"
+  ],
+  "QueryFilePath": ".\\PQ.query.pq",
+  "OutputFolderPath": ".\\TestOutput",
+  "DiagnosticsFolderPath": ".\\Diagnostics",
+  "PrettyPrint": true
+}
